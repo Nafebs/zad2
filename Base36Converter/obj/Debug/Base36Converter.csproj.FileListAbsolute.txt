@@ -1,0 +1,6 @@
+C:\Users\usersql\Documents\pn_mat_praktika\Matvay2zad\Base36Converter\bin\Debug\Base36Converter.dll
+C:\Users\usersql\Documents\pn_mat_praktika\Matvay2zad\Base36Converter\bin\Debug\Base36Converter.pdb
+C:\Users\usersql\Documents\pn_mat_praktika\Matvay2zad\Base36Converter\obj\Debug\Base36Converter.csproj.AssemblyReference.cache
+C:\Users\usersql\Documents\pn_mat_praktika\Matvay2zad\Base36Converter\obj\Debug\Base36Converter.csproj.CoreCompileInputs.cache
+C:\Users\usersql\Documents\pn_mat_praktika\Matvay2zad\Base36Converter\obj\Debug\Base36Converter.dll
+C:\Users\usersql\Documents\pn_mat_praktika\Matvay2zad\Base36Converter\obj\Debug\Base36Converter.pdb

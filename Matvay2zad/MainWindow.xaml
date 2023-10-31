@@ -1,0 +1,18 @@
+﻿<Window x:Class="Matvay2zad.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Matvay2zad"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="20px">
+        <TextBox x:Name="t1" Margin="0,65,0,0" Height="28" VerticalAlignment="Top" HorizontalAlignment="Center" Width="740"/>
+        <TextBox x:Name="t2" Text="Введите номер и вычислите результат" Margin="0,131,0,0" Height="28" VerticalAlignment="Top" HorizontalAlignment="Center" Width="740" Background="#FFD8D8D8" IsReadOnly="True"/>
+        <TextBox x:Name="t3" Text="Введите номер и вычислите результат" Height="28" VerticalAlignment="Top" HorizontalAlignment="Center" Width="740" Margin="0,197,0,0" Background="#FFD8D8D8" IsReadOnly="True"/>
+        <Label Content="Введите vin-номер" HorizontalAlignment="Left" Margin="10,34,0,0" VerticalAlignment="Top"/>
+        <Label Content="Страна в которой автомобиль был изготовлен" HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top"/>
+        <Label Content="Год изготовления автомобиля" HorizontalAlignment="Left" Margin="10,164,0,0" VerticalAlignment="Top"/>
+        <Button Content="Вычислить" HorizontalAlignment="Left" Margin="10,243,0,0" VerticalAlignment="Top" Width="157" Height="33" Click="Button_Click"/>
+    </Grid>
+</Window>
